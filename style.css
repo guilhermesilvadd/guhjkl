@@ -1,0 +1,97 @@
+tml, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+/* Estilos específicos para a seção de imagens */
+section.images {
+    text-align: center;
+}
+
+section.images img {
+    width: 45%;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+section.images img:hover {
+    transform: scale(1.1);
+}
+
+
+/* Alinha todo o conteúdo do corpo */
+
+.container {
+    width: 80%; /* Define a largura da área central */
+    margin: 0 auto; /* Margem automática para centralizar horizontalmente */
+    text-align: left; /* Define o alinhamento do texto dentro da área central */
+}
+
+.trator{
+    width: 400px;;
+    text-align: center;
+}
+
+
+Imagem de cidade
+.paragrafo2{
+    color: brown;
+
+}
+
+.paragrafo{
+    color: chocolate;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+
+    
